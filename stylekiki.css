@@ -15,6 +15,7 @@ h1 {
 .logo {
     width: 200px;
     border-radius: 30px;
+    filter: drop-shadow(10px 10px 10px rgb(0, 0, 0));
 }
 
 .card {
@@ -44,6 +45,7 @@ h1 {
     float:left ;
     margin-right: 30px;
     margin-top: 40px;
+    filter: drop-shadow(10px 10px 10px rgb(0, 0, 0));
 }
 
 .card-title, .card-text {
@@ -63,6 +65,7 @@ footer {
     .logo {
         width: 130px;
         border-radius: 30px;} 
+        filter: drop-shadow(10px 10px 10px rgb(0, 0, 0));
     h1 {
         font-size:3rem;
         text-align: center;
@@ -80,6 +83,7 @@ footer {
             margin-left: 50px;
             margin-bottom: 25px;
             object-fit: cover;
+            filter: drop-shadow(10px 10px 10px rgb(0, 0, 0));
         }
     .card-title, .card-text {
             margin:10px;
